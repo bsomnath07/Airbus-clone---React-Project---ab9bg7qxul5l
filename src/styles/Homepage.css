@@ -1,0 +1,44 @@
+.displaycontainer{
+    display: flex;
+    flex-direction: column;
+background-color: rgb(175, 218, 203);
+justify-content: space-between;
+}
+.flightcontainer{
+column-gap: 10px;
+}
+
+.flightname{
+color: rgb(121, 16, 16);
+font-size: 30px;
+}
+.flightinfo{
+    color: rgb(32, 32, 141);
+    font-size: 15px;
+}
+.flightprice{
+    color: rgba(224, 9, 9, 0.849);
+    font-size: 25px;
+    
+}
+.flightduration{
+    font-size: 20px;
+    color: rgb(33, 4, 100);
+}
+.flightjourney{
+    color: darkgreen;
+    font-size: 20px;
+}
+.searchflightbtn{
+    background-color: rgb(167, 4, 4);
+    color: aliceblue;
+    border-radius: 8px;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 1100px;
+  }
+  .ticket{
+    color: rgb(202, 31, 31);
+  font-size: 30px;
+  }

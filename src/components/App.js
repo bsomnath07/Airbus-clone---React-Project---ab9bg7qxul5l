@@ -1,13 +1,14 @@
 import React from 'react'
-import '../styles/App.css';
+import Navbar from './Navbar'
+import Homepage from './Homepage';
+
 const App = () => {
-
-
   return (
-    <div id="main">
+    <div>
+    <Navbar/>
+    <Homepage />
     </div>
   )
 }
 
-
-export default App;
+export default App

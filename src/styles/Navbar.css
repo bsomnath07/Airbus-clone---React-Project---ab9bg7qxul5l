@@ -1,0 +1,30 @@
+.navcontainer{
+    
+    background-color: aqua;
+   height:200px;
+    justify-content: space-between;
+}
+
+.loginbtn{
+  margin-left: 1100px;
+  margin-top: 0px;  
+  background-color: rgb(32, 202, 88);  
+  border-radius: 10px;
+  height: 40px;
+  width: 80px;
+  position:absolute;
+  left: 5px;
+  top: 50px;
+font-size: 20px;
+font-family: Arial;
+color: black;
+}
+.airbus{
+  position:absolute;
+  left: 15px;
+  top:100px;
+  color: rgb(5, 5, 90);
+  font-size: 30px;
+  margin-bottom:10px;
+}
+
