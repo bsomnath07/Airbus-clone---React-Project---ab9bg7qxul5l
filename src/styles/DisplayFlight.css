@@ -1,0 +1,18 @@
+  
+  .flight {
+    position: relative;
+    background-image: url("../styles/images/skyDes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .btn-book{
+    width: 90px;
+    height: 40px;
+    text-align: center;
+    text-shadow: 5px;
+    font-weight:bold;
+    border-radius: 8px;
+    background-color: rgb(245, 245, 245);
+    color: rgb(16, 4, 126);
+  }

@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    grid-gap: 120px;
+    background-color: rgb(243, 243, 243);
+  }
+  
+  .left-column {
+    flex: 1;
+    border: 1px solid black;
+    padding: 10px;
+    /* text-decoration: underline; */
+    height: 280px;
+}
+
+.left-column h4 {
+
+  border-bottom: 1px solid black;
+  padding-bottom: 5px; 
+}
+  
+  .right-column {
+    flex: 1;
+    border: 1px solid black;
+    padding: 10px;
+    height: 280px;
+  }
+  .right-column input {
+    margin-bottom: 10px;
+    width: 400px;
+    border-radius: 5px;
+    height: 28px;
+  }
+  .right-column button {
+   
+    width: 80px;
+    border-radius: 5px;
+    height: 30px;
+    font-weight: bold;
+    background-color: rgb(160, 238, 202);
+  }
+ 

@@ -1,0 +1,22 @@
+.status-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px 0;
+    height: 210px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color:whitesmoke;
+    font-weight: bolder;
+    font-size: larger;
+    color:whitesmoke;
+    position: relative;
+    background-image: url("../styles/images/bookflight.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+  

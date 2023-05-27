@@ -1,7 +1,7 @@
 .displaycontainer{
     display: flex;
     flex-direction: column;
-background-color: rgb(175, 218, 203);
+background-color: rgb(228, 245, 248);
 justify-content: space-between;
 }
 .flightcontainer{
@@ -42,3 +42,12 @@ font-size: 30px;
     color: rgb(202, 31, 31);
   font-size: 30px;
   }
+  
+  .flight {
+    position: relative;
+    background-image: url("../styles/images/skyDes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
